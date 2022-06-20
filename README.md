@@ -11,14 +11,17 @@ the ping.data file inside the Ping_data folder in the format
 tick:ping_number,\n
 
 ie. 
-1:1024,
-2:679,
-3:254,
-4:233,
-4:344,
-5:445
+1:1024,\n
+2:679,\n
+3:254,\n
+4:233,\n
+4:344,\n
+5:445\n
 
 #Installation
 Have you got git; you can run '` git clone github.com/KlausVolkog/damons_ping_graph `' else, go to '` Code > Download zip `'
 To run the script, you have to have python installed and then to install the module needed run '` pip install matplotlib `'
 After the modules installation you can run the script freely.
+
+#Program SceenShots
+![image](https://user-images.githubusercontent.com/62770862/174667052-b138a90f-8056-432d-bfe8-f3ae58ddcd4b.png)
